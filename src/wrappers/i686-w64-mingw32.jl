@@ -15,49 +15,49 @@ function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libillumination,
-        "bin/libillumination.dll",
+        "bin\\libillumination.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop2DAcoIsoDenQ_DEO2_FDTD,
-        "bin/libprop2DAcoIsoDenQ_DEO2_FDTD.dll",
+        "bin\\libprop2DAcoIsoDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop2DAcoTTIDenQ_DEO2_FDTD,
-        "bin/libprop2DAcoTTIDenQ_DEO2_FDTD.dll",
+        "bin\\libprop2DAcoTTIDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop2DAcoVTIDenQ_DEO2_FDTD,
-        "bin/libprop2DAcoVTIDenQ_DEO2_FDTD.dll",
+        "bin\\libprop2DAcoVTIDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop3DAcoIsoDenQ_DEO2_FDTD,
-        "bin/libprop3DAcoIsoDenQ_DEO2_FDTD.dll",
+        "bin\\libprop3DAcoIsoDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop3DAcoTTIDenQ_DEO2_FDTD,
-        "bin/libprop3DAcoTTIDenQ_DEO2_FDTD.dll",
+        "bin\\libprop3DAcoTTIDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprop3DAcoVTIDenQ_DEO2_FDTD,
-        "bin/libprop3DAcoVTIDenQ_DEO2_FDTD.dll",
+        "bin\\libprop3DAcoVTIDenQ_DEO2_FDTD.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libspacetime,
-        "bin/libspacetime.dll",
+        "bin\\libspacetime.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
