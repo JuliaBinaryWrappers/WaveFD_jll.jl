@@ -1,143 +1,143 @@
 [[WaveFD]]
 arch = "aarch64"
-git-tree-sha1 = "d442a15bd0d70481a98aea30532c84d7104246e7"
+git-tree-sha1 = "9cfb99c5bc49906b2f52168984acbfdac18c1e28"
 os = "macos"
 
     [[WaveFD.download]]
-    sha256 = "13913036e3b71bb4352f2d8513176247a528bbfa036909a56003b858ffc8e577"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "fc7c2c8add9628a78530b78018f6c0bf1c8682f1f51c35194c4ab261ce8a5985"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.aarch64-apple-darwin.tar.gz"
 [[WaveFD]]
 arch = "aarch64"
-git-tree-sha1 = "4a27c44f6520f34841ecaca9d66ee502d070e4d0"
+git-tree-sha1 = "7f892dd3f71194c6bf77aaab0dde8c17de1661dc"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "4b35d1c41161afd8b39b02e067c798fc224d258c385ff551e4101ea93f00bb80"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "7876fb281527f40a7d8fe00d1cf5a88a0d27953924739f451ce09c94d87893e1"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.aarch64-linux-gnu.tar.gz"
 [[WaveFD]]
 arch = "aarch64"
-git-tree-sha1 = "8472d7f5751ca15b4aec7a0e7a847d48f66b32a4"
+git-tree-sha1 = "ad316f5a19efc2004bf34211b742fecc8e9d230e"
 libc = "musl"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "eb01c742e421831b9ac1ca557cb344bd6e74ddaec1c9d5929288abf0a0d8e6e7"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a4739694c17e3b722fd8df99eb0a24ddf769bc3a01927180458b7ebafcc872fd"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.aarch64-linux-musl.tar.gz"
 [[WaveFD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d08fff6114dfed336d4b9a6a62c2475b9f5d75bd"
+git-tree-sha1 = "e0979c19ca7f4c0537e51ae3a7336fb36e7a6137"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "274578ae813a14f0cfcd0718a04b8745eedd0354c639ec26a132a0221a580b7c"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "23dba4a614898bdbf9b22d505d58134e6e1806a490cdd797df9d545931d880cb"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.armv6l-linux-gnueabihf.tar.gz"
 [[WaveFD]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "55257a1541699a5133c72c7efd360c2921dbbe1b"
+git-tree-sha1 = "f8f1cc5c12d626869dc0227e3224fc2745cc6000"
 libc = "musl"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "ac9181462075b897b0a93dcb5e787110c3b1cd5183cf33a4dc6a5ff10b4264d7"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "0509e4c0dbe553f525210c45ddc8543ae18d6ccfb54c9053f075d8c949d1f659"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.armv6l-linux-musleabihf.tar.gz"
 [[WaveFD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ba6351990a4e211472876d522a93e7ccaa90cb74"
+git-tree-sha1 = "49b3553bc2fe7123d3f4617e6771e09d71ee1355"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "0faed903a39283ed098bbbbca34aad59f39add695d6437d8c219aab04482a303"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "8660774bbe4162be2b69c467dbb5c73a32839bab54a7fad6efb874f4e054e19d"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.armv7l-linux-gnueabihf.tar.gz"
 [[WaveFD]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b4206b592578be27c86e2d667cc33e3e3c1698d4"
+git-tree-sha1 = "6c46eb09a6d3260e0752d6e7921bf700c3fcb30d"
 libc = "musl"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "2313b09fccbece5f42458cbdd3160dad9a07dca1c972f6effeb8aab601af94a9"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4007ea8be2757c75837656298bc81cdda162661fe31371b8d8d897fa58c7dd46"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.armv7l-linux-musleabihf.tar.gz"
 [[WaveFD]]
 arch = "i686"
-git-tree-sha1 = "754f118fc1448dbd9bc11c28ea5687caa4ded78f"
+git-tree-sha1 = "fc53809a91e36fd2442abdf4d3eec4470fea5596"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "29a27045ce659e31ce4d0c085dec4460cebc7ffe2b7e9fc218f1ab584f96d6c9"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.i686-linux-gnu.tar.gz"
+    sha256 = "9b3b4219ae7064238f2dceb9db331250fc5ec0a779b8ab299afc09aba16b318a"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.i686-linux-gnu.tar.gz"
 [[WaveFD]]
 arch = "i686"
-git-tree-sha1 = "d8b7c6341010c8ea703c89f418eb294f1e2e522f"
+git-tree-sha1 = "70d0e7c6e19b8812503a1fb48fa051a14918e26c"
 libc = "musl"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "288878ebff071dd9d6f2b06bd0e1a35fc4c655045705259a12242d98e9daf164"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.i686-linux-musl.tar.gz"
+    sha256 = "b89aff2516393eefd302dfc564f1d69e21e76ba6800a494ac928e6b1b5d60fcc"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.i686-linux-musl.tar.gz"
 [[WaveFD]]
 arch = "i686"
-git-tree-sha1 = "c9105997353d58b9e26fc26bc139087bfd8e53ca"
+git-tree-sha1 = "177e0bd2160e35f5888562b7bb5ced4553bef24d"
 os = "windows"
 
     [[WaveFD.download]]
-    sha256 = "fc7cdec3518fb14ea5a18ed079fe62c0c7d53d0973bab6036ee6083ab2811dfc"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.i686-w64-mingw32.tar.gz"
+    sha256 = "8c332c90578f206b8c63931c27d6866ab67c4f1fd096e37e7fcd5bdc2bfec64a"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.i686-w64-mingw32.tar.gz"
 [[WaveFD]]
 arch = "powerpc64le"
-git-tree-sha1 = "a357aa864828eca341e48bce2f2fdaab5ddfbe5c"
+git-tree-sha1 = "aecdd5c39f53ff43185783f7ebae85c19889e455"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "d203ff7b1b4e958cf862484d0824d7b3ac96da741c286b1b2af8a0c50df64aca"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "da4aa1d30a79c3e430f80e5d94d7bcb386544089357e75b9127e48dc2ea716be"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.powerpc64le-linux-gnu.tar.gz"
 [[WaveFD]]
 arch = "x86_64"
-git-tree-sha1 = "4b42446d25c3975edc9f4c6555b227e99682b3aa"
+git-tree-sha1 = "d0826d966592253dff163959d568f77b72160ffd"
 os = "macos"
 
     [[WaveFD.download]]
-    sha256 = "8ad1fd90359b9ba226f4842f1c70c5c8136701fd6c15091046b776d53a118cb5"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "ff84d5f881c0b69c6a9bcfea73c93e0011fb9f06afdcd059c3fefac9402ddf05"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.x86_64-apple-darwin.tar.gz"
 [[WaveFD]]
 arch = "x86_64"
-git-tree-sha1 = "7be4b6ee024348ec2ee76c1a63e4066bf427dda4"
+git-tree-sha1 = "bc50270ff78f86d71cf72959190f90c1c431750a"
 libc = "glibc"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "8002d97f4a8c99a9b70ab25c2d37c5b7b4da111a1f0920088ffc22a931c01f59"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "46ac966b31e7df858bd2746f004e004a40813e10b3554f4099f8a90a464d1cc8"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.x86_64-linux-gnu.tar.gz"
 [[WaveFD]]
 arch = "x86_64"
-git-tree-sha1 = "1bd45f0f74ec223ffc9b3a0ec22664435f8e1e3b"
+git-tree-sha1 = "f8f038e2236b29e8042ca5819478ca9b575c88c7"
 libc = "musl"
 os = "linux"
 
     [[WaveFD.download]]
-    sha256 = "a248d1f4fb75f654982385b1c45a3e8b15146f3ea087adbd6e9da6c9b4538780"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.x86_64-linux-musl.tar.gz"
+    sha256 = "fe022d7ea0f9d520bbf95d9b8c8e31f070b67487839af078118b09c6c0412884"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.x86_64-linux-musl.tar.gz"
 [[WaveFD]]
 arch = "x86_64"
-git-tree-sha1 = "d41ac4338960aca5989cbf692f6734944f8efd37"
+git-tree-sha1 = "86b2d025e6246d5c99cf265e8b0dbc5f9da88215"
 os = "freebsd"
 
     [[WaveFD.download]]
-    sha256 = "ccdef747238493be232b73b30710e7b6a3aa3a42f7b6f1a310a839a22e5c30b6"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "37b886743463e634b0c7809537bc44a8ee2393153e4e00d2a06e70d35e038b13"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.x86_64-unknown-freebsd.tar.gz"
 [[WaveFD]]
 arch = "x86_64"
-git-tree-sha1 = "30b6117ddfe024a89a2dcd2c5fd7ee0019b36f21"
+git-tree-sha1 = "a4e123bdee9b2ef82f5e1403e67044fcfa282a5a"
 os = "windows"
 
     [[WaveFD.download]]
-    sha256 = "17579afe66826b1f93ed633b6045b68574c4e6dc4837ddefd8be61c5e7ee8a98"
-    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.0+0/WaveFD.v0.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5b6e5ed329d4689ed43a05da091f0bd8397c645565b722b3b885be6b531b6e7b"
+    url = "https://github.com/JuliaBinaryWrappers/WaveFD_jll.jl/releases/download/WaveFD-v0.6.1+0/WaveFD.v0.6.1.x86_64-w64-mingw32.tar.gz"
